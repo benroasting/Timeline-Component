@@ -4,7 +4,7 @@ const data = [
     date: new Date(),
     category: {
       tag: "medium",
-      color: "#018f69",
+      color: "#FCD214",
     },
     link: {
       url: "",
@@ -16,7 +16,7 @@ const data = [
     date: new Date(),
     category: {
       tag: "medium",
-      color: "#018f69",
+      color: "#FCD214",
     },
     link: {
       url: "",
